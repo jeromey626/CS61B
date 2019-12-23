@@ -1,0 +1,10 @@
+#* java -ea tablut.Main
+# Check that black can capture
+manual white
+manual black
+i4-g
+dump
+e3-d
+dump
+i6-g
+dump

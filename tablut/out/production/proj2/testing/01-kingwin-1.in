@@ -1,0 +1,19 @@
+#* java -ea tablut.Main
+# Check that white wins when King reaches edge
+manual white
+h5-3
+dump
+f5-6
+dump
+h3-2
+dump
+g5-7
+dump
+h2-i
+dump
+e5-h
+dump
+i2-h
+dump
+h5-9
+#*win+

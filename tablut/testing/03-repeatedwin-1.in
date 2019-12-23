@@ -1,0 +1,12 @@
+#* java -ea tablut.Main
+# Check that repeated position will end game
+manual black
+manual white
+i4-3
+dump
+g5-4
+dump
+i3-4
+dump
+g4-5
+#*win+
